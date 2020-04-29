@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/EventHubStress/Infra/terraform/.terraform/plugins/windows_amd64
+/EventHubStress/src/EventHubStress/EventHubStress/appsettings.Development.json
+/EventHubStress/Infra/terraform/terraform.tfstate.backup
+/EventHubStress/Infra/terraform/terraform.tfstate
