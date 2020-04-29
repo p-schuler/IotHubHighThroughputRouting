@@ -57,4 +57,4 @@ The core metric setup you should use to see the repro is the **Publish Performan
 >If you don't get the option to split by the custom metric, enable **Enable alerting on custom metric dimensions**. Select **Usage and estimated costs** and then click on **Custom metrics (Preview)**.
 
 ## Repro Illustration
-![Send delay illustration](./images/chart_send_delay_illustration.jpg)
+![Send delay illustration](./images/chart_send_delay_illustration.JPG)
